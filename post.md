@@ -1,3 +1,4 @@
+{{ page.title }}
 # This Is My First Github Blog
 ```
 > Courses that I am taking this semester!
