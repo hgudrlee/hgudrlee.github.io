@@ -5,3 +5,5 @@
 > * Logic Design
 > * Data Structure
 > * Java Programming
+{{ page.excerpt }}
+{{ page.last_modified_at }}
